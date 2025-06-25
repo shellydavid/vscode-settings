@@ -1,0 +1,57 @@
+
+// ----------- 🎨 Themes/Icons -----------
+codesbiome.soil-theme-vscode
+charlotte.dark-feminine-italic
+vscode-icons-team.vscode-icons
+
+
+// ----------- 📦 Utilities -----------
+mikestead.dotenv  # syntax highlighting for .env files
+redhat.vscode-yaml  # YAML formatter
+eamodio.gitlens  # git utilities
+
+alefragnani.bookmarks  # 🏷️ create labeled bookmarks
+wayou.vscode-todo-highlight  # highlight TODO and FIXME comments
+gruntfuggly.todo-tree  # 🌳 file tree of your TODO comments in the activity bar
+
+purocean.drawio-preview  # preview drawio files in vscode editor
+cweijan.vscode-office  # preview xlsx, csv, word, pdf, ttf, markdown, and other files in vscode
+
+
+// ----------- 🌿 Nice-to-haves -----------
+tonybaloney.vscode-pets  # 🐾 spawn interactive pets in your editor
+mutantdino.resourcemonitor  # 🖥️ displays CPU, memory/disk stats, and battery percentage
+
+
+// ----------- 🐳 Docker -----------
+ms-azuretools.vscode-containers
+ms-azuretools.vscode-docker
+
+
+// ----------- 🐍 Python -----------
+kevinrose.vsc-python-indent
+ms-python.vscode-pylance
+ms-python.debugpy
+ms-python.pylint
+ms-python.python
+
+
+// ----------- 🟡 JavaScript -----------
+xabikos.javascriptsnippets
+dbaeumer.vscode-eslint
+esbenp.prettier-vscode
+
+
+// ----------- 🟠 Jupyter -----------
+ms-toolsai.vscode-jupyter-cell-tags
+ms-toolsai.vscode-jupyter-slideshow
+ms-toolsai.jupyter
+ms-toolsai.jupyter-keymap
+ms-toolsai.jupyter-renderers
+magicstack.magicpython
+
+
+// ----------- 🔵 R -----------
+reditorsupport.r-syntax
+rdebugger.r-debugger
+reditorsupport.r

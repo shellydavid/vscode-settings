@@ -1,0 +1,79 @@
+{
+    // ----------- Editor ------------
+    "window.zoomLevel": -1,
+    "terminal.integrated.inheritEnv": false,
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "files.autoSave": "onFocusChange",
+    "files.associations": {
+        "*.rmd": "markdown"
+    },
+    "editor.formatOnSave": true,
+    "editor.renderWhitespace": "none",
+    "editor.minimap.enabled": false,
+    "editor.largeFileOptimizations": false,
+    "workbench.colorTheme": "Soil Theme",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.productIconTheme": "bongocat",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb",
+        "*.pdf": "cweijan.officeViewer",
+        "*.json": "default"
+    },
+    "workbench.colorCustomizations": {
+        "[Dark Feminine Italic]": {
+            // "sideBar.foreground": "#c7c7c7",
+            // "sideBar.background": "#1a1a1a",
+            // // "sideBarSectionHeader.background": "#2974b1",
+            // "editor.background": "#232323ad",
+            // // "breadcrumb.background": "#0b1014",
+            // // "statusBar.background": "#0b1014",
+            // // "statusBar.foreground": "#626262",
+            // // "minimap.background": "#0b1014",
+            // "titleBar.activeBackground": "#111111",
+            // // "editorGroupHeader.tabsBackground": "#0b1014",
+            // "activityBar.background": "#111111",
+            // // "tab.inactiveBackground": "#0b1014",
+            // // "tab.activeBackground": "#0b1014",
+            // // "tab.activeBorder": "#ffd866",
+            // "symbolIcon.textForeground": "#bdb6a1"
+        }
+    },
+
+    // ----------- Python/Jupyter ------------
+    "python.defaultInterpreterPath": "/Users/shelly/anaconda3/bin/python",
+    "python.insidersChannel": "off",
+    "notebook.lineNumbers": "on",
+    "jupyter.askForKernelRestart": false,
+    "jupyter.interactiveWindow.creationMode": "perFile",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "[python]": {
+        "editor.formatOnType": true
+    },
+
+    // ----------- Misc ------------
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+
+    // ------------ Extensions ------------
+    "livePreview.customExternalBrowser": "Chrome",
+    "hediet.vscode-drawio.resizeImages": null,
+    "vscode-pets.throwBallWithMouse": true,
+    "vscode-office.editorTheme": "Nord",
+    "vscode-pets.petSize": "large",
+    "prettier.tabWidth": 4
+}
