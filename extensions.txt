@@ -17,6 +17,9 @@ gruntfuggly.todo-tree  # 🌳 file tree of your TODO comments in the activity ba
 purocean.drawio-preview  # preview drawio files in vscode editor
 cweijan.vscode-office  # preview xlsx, csv, word, pdf, ttf, markdown, and other files in vscode
 
+streetsidesoftware.code-spell-checker
+ms-vsliveshare.vsliveshare  # Host live-share sessions
+
 
 // ----------- 🌿 Nice-to-haves -----------
 tonybaloney.vscode-pets  # 🐾 spawn interactive pets in your editor
@@ -30,6 +33,7 @@ ms-azuretools.vscode-docker
 
 // ----------- 🐍 Python -----------
 kevinrose.vsc-python-indent
+ms-python.vscode-python-envs
 ms-python.vscode-pylance
 ms-python.debugpy
 ms-python.pylint

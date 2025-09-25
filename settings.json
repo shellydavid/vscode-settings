@@ -42,7 +42,7 @@
     },
 
     // ----------- Python/Jupyter ------------
-    "python.defaultInterpreterPath": "/Users/shelly/anaconda3/bin/python",
+    "python.defaultInterpreterPath": "/Users/shelly/miniconda3/bin/python",
     "python.insidersChannel": "off",
     "notebook.lineNumbers": "on",
     "jupyter.askForKernelRestart": false,
